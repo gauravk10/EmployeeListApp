@@ -11,5 +11,4 @@ public class EmployeeBO {
 	private String job;
 	private float sal;
 	private int deptno;
-
 }
